@@ -1,0 +1,4 @@
+/books
+*.wad
+/venv
+/__pycache__
