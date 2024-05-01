@@ -1,6 +1,6 @@
 # Bobnow's fan fiction reader
 I wanted to get into reading fan fiction but I happen to have a attention span barely enough to read a user manual.
-So I made this jank abomination of a program. Reading is for nerd anyway
+So I made this jank abomination of a program. Reading is for nerds anyway
 ## Current features:
 1. Colored text in the menus
 2. Text to speech
