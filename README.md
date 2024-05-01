@@ -14,4 +14,6 @@ So I made this jank abomination of a program. Reading is for nerd anyway
 May not work lol
 ## Guide for Linux
 Figure it out lol. Create a python venv and install stuff in requirements.txt. Run main.py to run the program, and pray it works.
+## Guide for Mac
+Good luck :D
 ## WARNING! THIS IS JANK AND MAY BREAK AT ANY TIME IN ANY WAY. I AM NOT RESPONSIBLE FOR WHAT IT MAY OR MAY NOT DO TO YOUR POOR COMPUTER.
