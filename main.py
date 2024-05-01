@@ -11,6 +11,9 @@ init()
 kb = KBHit()
 reader = tts()
 
+# Wad Check 
+fs.checkWad()
+
 def export():
     books = fs.listBooks()
     i = 0
