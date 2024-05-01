@@ -42,6 +42,15 @@ def getBook(fileName):
     with open(join("books",fileName), "rt") as f:
         v = f.read()
         v = re.split(r' *[\.\?!][\'"\)\]]* *', v)
+        while '' in v:
+            v.remove('')
+        while '\n' in v:
+            v.remove('\n')
+        while '***' in v:
+            v.remove('***')
+        while '...' in v:
+            v.remove('...')
+        v = [item.strip() for item in v]
         return v
 
 def readLine(book):
